@@ -16,18 +16,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kacpersmaga&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kacpersmaga&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpersmaga&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 [eShop – Modular E-commerce System](https://github.com/kacpersmaga/eShop)
