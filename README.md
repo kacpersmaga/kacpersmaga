@@ -8,15 +8,33 @@
 
 ## 🔧 Tech Stack
 
-- **Backend:** .NET 9, ASP.NET Core, CQRS, DDD, MediatR, AutoMapper
+- **Backend:** .NET 9, ASP.NET Core, CQRS, DDD, MediatR, AutoMapper, FastAPI, SQLAlchemy
 - **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
-- **Database:** MSSQL, Redis
+- **Database:** MSSQL, PostgreSQL, Redis
 - **DevOps:** Docker, GitHub Actions, Azure Blob Storage, Caddy
-- **Tools:** xUnit, FluentValidation, Swagger, Git
+- **Tools:** xUnit, FluentValidation, Swagger, Pytest, Git
 
 ---
 
 ## 🚀 Featured Projects
+
+### 💸 [ProductNegotiationApp](https://github.com/kacpersmaga/ProductNegotiationApp)
+
+> A .NET 9 Web API for price negotiation in an online store, built as a modular monolith. Customers propose prices, and employees accept/reject them, with MSSQL persistence, JWT authentication, and Serilog logging.
+
+**Tech stack:**  
+`.NET 9` `ASP.NET Core` `MSSQL` `Docker` `JWT` `Serilog` `MediatR` `FluentValidation` `Swagger` `xUnit`
+
+---
+
+### 🌐 [SWIFT Codes API](https://github.com/kacpersmaga/swift-codes-api)
+
+> A FastAPI-based API for managing SWIFT/BIC codes, with PostgreSQL storage, automated CSV seeding, and CI/CD via GitHub Actions. Supports querying, creating, and deleting SWIFT code entries.
+
+**Tech stack:**  
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Docker` `Pytest` `GitHub Actions` `Codecov`
+
+---
 
 ### 🛒 [eShop – Modular E-commerce System](https://github.com/kacpersmaga/eShop)
 
