@@ -1,59 +1,52 @@
-# 👋 Hi, I'm Kacper Smaga
+<div align="center">
 
-🎓 I'm a Computer Science student and passionate Full Stack Developer from Cracow, Poland.  
-🛠️ I specialize in building modern web applications using **.NET**, **React**, **Docker**, and **Clean Architecture** principles.  
-🚀 I love designing scalable systems, working with cloud solutions, and writing clean, testable code.  
+# Kacper Smaga
 
----
+**.NET Developer** · Cracow, Poland · coding since 2022
 
-## 🔧 Tech Stack
+[![Portfolio](https://img.shields.io/badge/kacpersmaga.com-512BD4?style=flat-square&logo=astro&logoColor=white)](https://kacpersmaga.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kacpersmaga)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kacper.smaga@onet.pl)
 
-- **Backend:** .NET 9, ASP.NET Core, CQRS, DDD, MediatR, AutoMapper, FastAPI, SQLAlchemy
-- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
-- **Database:** MSSQL, PostgreSQL, Redis
-- **DevOps:** Docker, GitHub Actions, Azure Blob Storage, Caddy
-- **Tools:** xUnit, FluentValidation, Swagger, Pytest, Git
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 💸 [ProductNegotiationApp](https://github.com/kacpersmaga/ProductNegotiationApp)
-
-> A .NET 9 Web API for price negotiation in an online store, built as a modular monolith. Customers propose prices, and employees accept/reject them, with MSSQL persistence, JWT authentication, and Serilog logging.
-
-**Tech stack:**  
-`.NET 9` `ASP.NET Core` `MSSQL` `Docker` `JWT` `Serilog` `MediatR` `FluentValidation` `Swagger` `xUnit`
+Focused on **.NET backend systems**. Check out my full portfolio at **[kacpersmaga.com](https://kacpersmaga.com)**.
 
 ---
 
-### 🌐 [SWIFT Codes API](https://github.com/kacpersmaga/swift-codes-api)
+## Stack
 
-> A FastAPI-based API for managing SWIFT/BIC codes, with PostgreSQL storage, automated CSV seeding, and CI/CD via GitHub Actions. Supports querying, creating, and deleting SWIFT code entries.
+<div align="center">
 
-**Tech stack:**  
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Docker` `Pytest` `GitHub Actions` `Codecov`
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,redis,rabbitmq,graphql,py,githubactions,git&perline=10&theme=dark)](https://skillicons.dev)
 
----
-
-### 🛒 [eShop – Modular E-commerce System](https://github.com/kacpersmaga/eShop)
-
-> Advanced full-stack e-commerce platform built with .NET 9 and React using Clean Architecture, DDD, and CQRS.  
-> Deployed with Docker, Redis, Azure Blob Storage, and GitHub Actions CI/CD.
-
-**Tech stack:**  
-`.NET 9` `React` `Next.js` `MSSQL` `Docker` `Redis` `Azure` `Caddy` `MediatR` `Swagger`
+</div>
 
 ---
 
-### 🎬 [Movie Management App](https://github.com/kacpersmaga/Movie-Management-Application)
+## Projects
 
-> Simple movie collection manager built with ASP.NET Core MVC and Entity Framework.  
-> Allows users to browse, add, edit, and delete movies from a personal library.
+**[TicketFlow](https://github.com/kacpersmaga/TicketFlow)** — Microservices · .NET Aspire · gRPC · GraphQL · RabbitMQ · MassTransit · JWT · OpenTelemetry
 
-**Tech stack:**  
-`.NET` `ASP.NET Core MVC` `Entity Framework` `Razor Pages` `MSSQL`
+**[eShop](https://github.com/kacpersmaga/eShop)** — .NET 9 · Clean Architecture · DDD · CQRS · Docker · Redis · Azure Blob · EF Core 9
+
+**[ProductNegotiationApp](https://github.com/kacpersmaga/ProductNegotiationApp)** — .NET 9 · MediatR · JWT · MSSQL · xUnit
+
+**[SWIFT Codes API](https://github.com/kacpersmaga/swift-codes-api)** — FastAPI · PostgreSQL · pytest · Docker
 
 ---
 
-📫 **Contact me:** [kacper.smaga@onet.pl](mailto:kacper.smaga@onet.pl)  
+## Certifications
+
+**Microsoft** — AZ-900 · DP-900 · AI-900 &nbsp;|&nbsp; **ITS** — Software Development · JavaScript · Databases · HTML&CSS · Cybersecurity · Networking · Cloud · AI
+
+---
+
+<div align="center">
+
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpersmaga&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=512bd4&text_color=e5e7eb&langs_count=6" />
+
+</div>
