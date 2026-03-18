@@ -22,11 +22,11 @@ Focused on **.NET backend systems** — check out my full portfolio at **[kacper
 
 **[eShop](https://github.com/kacpersmaga/eShop)** — .NET 9 · Next.js · Clean Architecture · DDD · CQRS · Docker · Redis · Azure Blob · EF Core 9
 
+**[Portfolio](https://github.com/kacpersmaga/portfolio)** — Astro 5 · Tailwind CSS 4 · SSG · SEO
+
 **[ProductNegotiationApp](https://github.com/kacpersmaga/ProductNegotiationApp)** — .NET 9 · MediatR · JWT · MSSQL · xUnit
 
 **[SWIFT Codes API](https://github.com/kacpersmaga/swift-codes-api)** — FastAPI · PostgreSQL · pytest · Docker
-
-**[Portfolio](https://github.com/kacpersmaga/portfolio)** — Astro 5 · Tailwind CSS 4 · SSG · SEO
 
 **[Scrabble Game](https://github.com/kacpersmaga/scrabbleGame)** — Next.js · TypeScript · Firebase · Tailwind CSS · Playwright
 
