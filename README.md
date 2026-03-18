@@ -2,7 +2,7 @@
 
 # Kacper Smaga
 
-**.NET Developer** · Cracow, Poland · coding since 2022
+**.NET Developer** · Cracow, Poland · 21 y/o · coding since 2022
 
 [![Portfolio](https://img.shields.io/badge/kacpersmaga.com-512BD4?style=flat-square&logo=astro&logoColor=white)](https://kacpersmaga.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kacpersmaga)
@@ -12,17 +12,7 @@
 
 ---
 
-Focused on **.NET backend systems**. Check out my full portfolio at **[kacpersmaga.com](https://kacpersmaga.com)**.
-
----
-
-## Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,redis,rabbitmq,graphql,py,githubactions,git&perline=10&theme=dark)](https://skillicons.dev)
-
-</div>
+Focused on **.NET backend systems** — check out my full portfolio at **[kacpersmaga.com](https://kacpersmaga.com)** and my certificates at **[Credly](https://www.credly.com/users/kacper-smaga/badges#credly)**.
 
 ---
 
@@ -38,14 +28,7 @@ Focused on **.NET backend systems**. Check out my full portfolio at **[kacpersma
 
 ---
 
-## Certifications
-
-**Microsoft** — AZ-900 · DP-900 · AI-900 &nbsp;|&nbsp; **ITS** — Software Development · JavaScript · Databases · HTML&CSS · Cybersecurity · Networking · Cloud · AI
-
----
-
 <div align="center">
-
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpersmaga&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=512bd4&text_color=e5e7eb&langs_count=6" />
 
