@@ -14,6 +14,8 @@
 
 Focused on **.NET backend systems** — check out my full portfolio at **[kacpersmaga.com](https://kacpersmaga.com)** and my certificates at **[Credly](https://www.credly.com/users/kacper-smaga/badges#credly)**.
 
+🏆 **1st Place** — AI KRAK Hackathon 2026 · Built [WorkTrace](https://krakhack.info/zespoly/vibecoders), an AI tool mapping employee activity and ranking tasks by automation potential.
+
 ---
 
 ## Projects
@@ -32,8 +34,4 @@ Focused on **.NET backend systems** — check out my full portfolio at **[kacper
 
 ---
 
-<div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpersmaga&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=512bd4&text_color=e5e7eb&langs_count=6" />
-
-</div>
